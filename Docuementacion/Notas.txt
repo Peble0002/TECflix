@@ -1,0 +1,10 @@
+instalar node.js
+instalar react
+dentro de visual code REST Client
+
+
+npm i express
+npm i mysql
+npm i express-myconnection
+npm i cors
+npm i nodemon --save-dev
